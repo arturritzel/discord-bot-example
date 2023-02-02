@@ -6,14 +6,14 @@
 
 # como usar:
 - abra o terminal, e executa os seguintes comandos:
+  - esse comando cria o arquivo package.json:
   > npm init -y
-  - esse comando cria o arquivo package.json;
   
+  - instala os pacotes dotenv e discord.js:
   > npm install discord.js dotenv
-  - instala os pacotes dotenv e discord.js;
   
+  - instala os pacotes do nodemon, ferramenta que auxilia na execução de aplicações baseadas em Node.js:
   > npm install -g nodemon
-  - instala os pacotes do nodemon, ferramenta que auxilia na execução de aplicações baseadas em Node.js.
 
 - crie um arquivo chamado ```.env```, que contém o token do bot declarado como ```TOKEN = xxxxxxxxxxxxxxxxxxxxxx```.
 - crie um arquivo chamado ```index.js```, com o código base do bot, que contém métodos de login e interação.
