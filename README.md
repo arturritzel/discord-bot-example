@@ -18,7 +18,7 @@
 
 - crie um arquivo chamado ```.env```, que contém o token do bot declarado como ```TOKEN = xxxxxxxxxxxxxxxxxxxxxx```.
 - crie um arquivo chamado ```index.js```, com o código base do bot, que contém métodos de login e interação.
-- 
+
 - depois dos arquivos criados, basta iniciar o bot digitando ```nodemon``` no terminal.
 
  
