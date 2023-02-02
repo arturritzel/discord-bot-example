@@ -21,7 +21,5 @@
 
 - depois dos arquivos criados, basta iniciar o bot digitando ```nodemon``` no terminal.
 
- 
- 
-##### 
+
 Encontre documentação para interação no site oficial do [discord.js](https://discord.js.org/#/)
