@@ -6,7 +6,7 @@
 
 
 # como utilizar:
-- abra o terminal, e executa os seguintes comandos:
+- abra o terminal, e execute os seguintes comandos:
   - esse comando cria o arquivo package.json:
   > npm init -y
   
